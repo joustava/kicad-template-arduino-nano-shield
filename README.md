@@ -16,7 +16,12 @@ Download or clone this GitHub repository to your [KiCad user templates directory
 
 | Project Template Selector |
 |---------------------------|
-| ![Screenshot](./meta/project-template-selector-screenshot.png) |
+| ![Screenshot of 3D Viewer](./meta/project-template-selector-screenshot.png) |
+
+
+| 3D View |
+|---------------------------|
+| ![Screenshot of 3D Viewer](./meta/pcd-3d.png) |
 
 
 *Note*

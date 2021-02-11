@@ -21,7 +21,7 @@ Download or clone this GitHub repository to your [KiCad user templates directory
 
 | 3D View |
 |---------------------------|
-| ![Screenshot of 3D Viewer](./meta/pcd-3d.png) |
+| ![Screenshot of 3D Viewer](./meta/pcb-3d.png) |
 
 
 *Note*

@@ -24,9 +24,6 @@ Download or clone this GitHub repository to your [KiCad user templates directory
 | ![Screenshot of 3D Viewer](./meta/pcb-3d.png) |
 
 
-*Note*
-This GitHub project itself can also be used as a template to create new GitHub repositories, see [creating-a-repository-from-a-template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) for details.
-
 ## Resource
 
 - [KiCad](https://kicad.org/)
